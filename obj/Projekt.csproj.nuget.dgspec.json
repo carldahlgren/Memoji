@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/Projekt.csproj": {}
+  },
+  "projects": {
+    "/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/Projekt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/Projekt.csproj",
+        "projectName": "Projekt",
+        "projectPath": "/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/Projekt.csproj",
+        "packagesPath": "/Users/carldahlgren/.nuget/packages/",
+        "outputPath": "/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carldahlgren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

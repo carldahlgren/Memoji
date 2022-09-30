@@ -1,0 +1,15 @@
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Projekt
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Projekt.deps.json
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Projekt.runtimeconfig.json
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Projekt.dll
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Projekt.pdb
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.csproj.AssemblyReference.cache
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.AssemblyInfoInputs.cache
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.AssemblyInfo.cs
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.csproj.CoreCompileInputs.cache
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.dll
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/refint/Projekt.dll
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.pdb
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.genruntimeconfig.cache
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/ref/Projekt.dll
