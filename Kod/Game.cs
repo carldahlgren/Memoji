@@ -7,7 +7,7 @@ namespace Memoji
         public Deck Deck;
         GameMode Mode;
         
-        //Abstract Injected Object Composition
+       
         public Game(GameMode mode)
         {
             Mode = mode;
