@@ -1,5 +1,5 @@
 # Memoji
-Ett memory för 1 spelare. Utvecklat i C# för kursen Objektorienterad Programmering 2, Uppsala Universitet 2022. 
+Ett memory för 1 spelare. 
 
 Kravspecifikation:
 
@@ -12,3 +12,6 @@ Kravspecifikation:
 7. Uppvisar meningsfullt användande av “pattern matching”.
 8. Uppvisar meningsfullt användande av “lambda expressions” i “LINQ”.
 9. Uppvisar meningsfullt användande av minst 1 av följande designmönster: Bridge, Observer, Composite, Factory method, Visitor, State.
+
+
+Utvecklat i C# för kursen Objektorienterad Programmering 2, Uppsala Universitet 2022. 
