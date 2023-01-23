@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="M9OISlcFo3maJGxGLlWU" name="Page-1">
+        <mxGraphModel dx="1497" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="2" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Loop &amp;lt;T&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="180" width="140" height="69" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-weight: 700&quot;&gt;IComparer&amp;lt;T&amp;gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry y="29" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;span style=&quot;font-weight: 700&quot;&gt;IGenerator&amp;lt;T&amp;gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry y="49" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&amp;lt;&amp;lt;IPairComparer&amp;lt;T&amp;gt;&amp;gt;&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="180" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&amp;lt;&amp;lt;IPairGenerator&amp;lt;T&amp;gt;&amp;gt;&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="180" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="8" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="CardPairGenerator" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="300" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="9" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="CardComparer" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="300" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Has a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="180" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Has a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="180" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Implements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="555" y="270" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Implements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="270" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Vid Instansiering av Loop&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Courier New&quot;&gt;Loop&amp;lt;Card&amp;gt; Memory_Loop = &lt;br&gt;new Loop&amp;lt;Card&amp;gt;( new CardComparer(), new CardPairGenerator() )&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="640" width="470" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font face=&quot;Helvetica&quot;&gt;Loop &amp;lt;T&amp;gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="275" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font face=&quot;Courier New&quot;&gt;class CardPairGenerator :&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;IPairGenerator&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;Card&amp;gt;{&lt;br&gt;¨¨¨&lt;br&gt;¨¨¨&lt;br&gt;}&lt;br&gt;class CardComparer : IPairComparer&amp;lt;Card&amp;gt;{&lt;br&gt;¨¨¨&lt;br&gt;¨¨¨&lt;br&gt;}&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="470" width="470" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&amp;nbsp;T x =[&amp;lt;T&amp;gt;]&lt;br&gt;&amp;nbsp;T y =[&amp;lt;T&amp;gt;]&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=default;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="240" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="IPairGenerator&lt;br&gt;(Väljer ut ett par)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="734" y="200" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&amp;nbsp;T x == T y ?" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;strokeColor=default;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="1025" y="180" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="IPairComparer&lt;br&gt;(Jämför Par)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;" vertex="1" parent="1">
+                    <mxGeometry x="1020" y="140" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

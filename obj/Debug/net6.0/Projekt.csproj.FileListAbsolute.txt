@@ -13,3 +13,5 @@
 /Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.pdb
 /Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.genruntimeconfig.cache
 /Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/ref/Projekt.dll
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/obj/Debug/net6.0/Projekt.csproj.CopyComplete

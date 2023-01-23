@@ -1,0 +1,1 @@
+/Users/carldahlgren/Documents/Kurser/OOP_2/Kod/C#/Projekt/bin/Release/net6.0/osx-x64/publish/Projekt
